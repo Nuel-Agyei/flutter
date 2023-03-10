@@ -86,8 +86,8 @@ class _MyAppExtState extends State<MyAppExt> {
                   });
                 },
                 child: _isClicked
-                    ? Image.asset('images/1h.jpg')
-                    : Image.asset('images/2h.jpg'),
+                    ? Image.asset('images/coms1.jpg')
+                    : Image.asset('images/coms2.jpg'),
               ),
       ),
       bottomNavigationBar: BottomNavigationBar(
