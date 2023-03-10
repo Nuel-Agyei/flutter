@@ -1,5 +1,5 @@
 // ignore_for_file: prefer_const_constructors
-
+import 'next_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -110,13 +110,3 @@ class _MyAppExtState extends State<MyAppExt> {
 // I needed to go down
 
 // No touch
-class Nextpage extends StatelessWidget {
-  const Nextpage({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(),
-    );
-  }
-}
