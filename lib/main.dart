@@ -46,7 +46,7 @@ class _MyAppExtState extends State<MyAppExt> {
             ? Container(
                 width: double.infinity,
                 height: double.infinity,
-                color: Color.fromARGB(94, 97, 97, 97),
+                color: Color.fromARGB(94, 0, 166, 255),
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.center,
                   crossAxisAlignment: CrossAxisAlignment.center,
